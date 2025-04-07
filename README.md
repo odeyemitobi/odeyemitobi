@@ -1,16 +1,13 @@
-## Hi there 👋
+# Odeyemi Tobiloba
 
-<!--
-**odeyemitobi/odeyemitobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Engineer
 
-Here are some ideas to get you started:
+Frontend Engineer passionate about creating innovative, high-performing, and user-focused web solutions. I deliver exceptional digital experiences that exceed expectations and align with business goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- LinkedIn: [odeyemi-oluwatobiloba](www.linkedin.com/in/odeyemi-oluwatobiloba-581246249)
+- Email: odeyemioluwatobiloba11@gmail.com
+
+---
+
+*"Creating seamless digital experiences one line of code at a time."*
