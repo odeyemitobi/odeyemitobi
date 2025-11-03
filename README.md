@@ -25,7 +25,7 @@ With expertise in **modern web technologies** and **blockchain development** (pa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black)
 ![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,10 +34,10 @@ With expertise in **modern web technologies** and **blockchain development** (pa
 
 ### Web3 & Blockchain
 
-![Stacks](https://img.shields.io/badge/Stacks-5546FF?style=for-the-badge&logo=stacks&logoColor=white)
+![Stacks](https://img.shields.io/badge/Stacks-5546FF?style=for-the-badge&logoColor=white)
 ![Clarity](https://img.shields.io/badge/Clarity-5546FF?style=for-the-badge&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logoColor=white)
 
 ### Tools & Technologies
 
@@ -45,8 +45,8 @@ With expertise in **modern web technologies** and **blockchain development** (pa
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=black)
 
 ---
 
@@ -102,9 +102,9 @@ With expertise in **modern web technologies** and **blockchain development** (pa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odeyemitobi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odeyemitobi&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d9ff&icon_color=00d9ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odeyemitobi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odeyemitobi&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d9ff)
 
 </div>
 
