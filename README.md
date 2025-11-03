@@ -4,8 +4,6 @@
 
 **Frontend Engineer** | **Web3 Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+the+future+of+web3;Crafting+seamless+digital+experiences;Stacks+blockchain+developer;Full-stack+web+solutions)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -100,10 +98,13 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odeyemi-oluwatobiloba-581246249)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odeyemioluwatobiloba11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odeyemitobi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Odeyemitobi95)
+**📧 Email:** [odeyemioluwatobiloba11@gmail.com](mailto:odeyemioluwatobiloba11@gmail.com)
+
+**💼 LinkedIn:** [odeyemi-oluwatobiloba](https://www.linkedin.com/in/odeyemi-oluwatobiloba-581246249)
+
+**🐦 Twitter:** [@Odeyemitobi95](https://twitter.com/Odeyemitobi95)
+
+**💻 GitHub:** [github.com/odeyemitobi](https://github.com/odeyemitobi)
 
 </div>
 
